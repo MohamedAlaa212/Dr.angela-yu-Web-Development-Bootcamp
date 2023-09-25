@@ -1,0 +1,23 @@
+for using headers <h1> the title </h1>
+ther is up to 6 headers levels you can do.
+
+<p> paragraph </p>.
+
+<br/> starting a new line.
+<hr/> line between 2 paragraphs.
+<ol> 
+        <li> words <li/>
+        <li> words <li/>            this is a ordered list : make list with numbers
+        <li> words <li/>            if u dont want numbers <ul> unordered list do points insted.
+<ol/>  
+
+URL 
+<a href="the link">the word refer to thhhe link</a>
+href can be changed to other attributes like draggable and so on.
+
+image
+<img src="the link/the size of the image"/> 
+<img src="the link/the size of the image" alt="discreption of the photo"/> 
+src= source of image.
+alt= alternative text description. 
+if it didint work remve the size shit.
