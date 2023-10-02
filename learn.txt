@@ -20,4 +20,7 @@ image
 <img src="the link/the size of the image" alt="discreption of the photo"/> 
 src= source of image.
 alt= alternative text description. 
-if it didint work remve the size shit.
+if it did not work remve the size shit.
+
+-- if you want to make a URL in image
+ <a> came first (<a> herf="your linke path that you put in the imag"> <img src ="image path"></img> <a/>) 
